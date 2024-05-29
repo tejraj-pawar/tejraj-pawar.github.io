@@ -2983,18 +2983,6 @@ input, select, textarea {
 		border-radius: 8px;
 		filter: blur(0.7px);
 	}
-	.project .overlay {
-		position: absolute;
-		top: 25%;
-		left: 50%;
-		transform: translate(-50%, -50%);
-		color: white;
-		background-color: rgba(0, 0, 0, 0.5);
-		padding: 0.4em;
-		border-radius: 0.5em;
-		text-align: center;
-		font-size: 1em;
-	}
 	.project-content {
 		padding: 0.5em;
 	}
@@ -3741,7 +3729,7 @@ input, select, textarea {
 		}
 
 		#main > .main {
-			padding: 5em 5em 3em 5em ;
+			padding: 2em 4em 2em 4em ;
 			border-top: solid 1px #dddddd;
 		}
 
